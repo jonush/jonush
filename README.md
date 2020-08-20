@@ -1,4 +1,4 @@
-### Hey 👋!, I'm Jonathan
+### Hey 👋, I'm Jonathan
 
 I enjoy front-end development as well as user experience design. I find the initial design process and then the technical transition into coding said designs to be a lot of fun. I enjy reading books across many different genres, some of which being: self-help, sci-fi, non-fiction, and biographies. Contact me through twitter [@jawnhsu](https://twitter.com/jawnhsu) if you want to chat!
 
