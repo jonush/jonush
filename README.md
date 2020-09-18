@@ -1,6 +1,14 @@
 ### Hey 👋, I'm Jonathan
 
-I enjoy front-end development as well as user experience design. I find the initial design process and then the technical transition into coding said designs to be a lot of fun. I enjy reading books across many different genres, some of which being: self-help, sci-fi, non-fiction, and biographies. Contact me through twitter [@jawnhsu](https://twitter.com/jawnhsu) if you want to chat!
+I am a full-stack web developer with a passion for UX development. I appreciate the design process and then the technical transition into coding said designs. I am an advocate for implementing accessiblity throughout all aspects of what I build.
+
+My interests include:
+
+- Browsing the Figma community plug-ins and templates
+- Diving into CSS/UI libraries and using them in ReactJS
+- Playing 🎾
+
+Contact me through twitter [@jawnhsu](https://twitter.com/jawnhsu) if you want to chat!
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
