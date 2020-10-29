@@ -9,6 +9,7 @@ My interests include:
 - Playing 🎾
 
 Contact me through twitter [@jawnhsu](https://twitter.com/jawnhsu) if you want to chat!
+
 Check out my [portfolio](https://jonhsu.design)
 
 <!--
