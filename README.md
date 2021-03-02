@@ -1,16 +1,16 @@
 ### Hey 👋, I'm Jonathan
 
-I am a full-stack web developer with a passion for UI/UX development. I appreciate the design process and then the technical transition into coding said designs. I am an advocate for implementing accessiblity throughout all aspects of what I build.
+I'm a self-taught designer who graduated from a coding bootcamp for full-stack web development. During my time there, Igained experience developing front-end web applications and back-end API's. I'm currently focused on UI design and optimizing the collabroative experience between designers and developers.
 
-My interests include:
+My current interests include:
 
-- Browsing the Figma community plug-ins and templates
-- Diving into CSS/UI libraries and using them in ReactJS
-- Playing 🎾
+- Crypto art & NFT's
+- Design Systems
+- Playing Tennis 🎾 & Going to the Beach 🏖
 
-Contact me through twitter [@jawnhsu](https://twitter.com/jawnhsu) if you want to chat!
+Reach me on twitter [@jawnhsu](https://twitter.com/jawnhsu)
 
-Check out my [portfolio](https://jonhsu.design)
+Check out my [work](https://jonhsu.design)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
