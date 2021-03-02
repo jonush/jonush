@@ -6,7 +6,8 @@ My current interests include:
 
 - Crypto art & NFT's
 - Design Systems
-- Playing Tennis 🎾 & Going to the Beach 🏖
+- Playing Tennis 🎾
+- Going to the Beach 🏖
 
 Reach me on twitter [@jawnhsu](https://twitter.com/jawnhsu)
 
