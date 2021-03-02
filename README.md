@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jonathan
+### Hey 🦦, I'm Jon
 
 I'm a self-taught designer who graduated from a coding bootcamp for full-stack web development. During my time there, Igained experience developing front-end web applications and back-end API's. I'm currently focused on UI design and optimizing the collabroative experience between designers and developers.
 
