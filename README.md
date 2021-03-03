@@ -4,8 +4,8 @@ I'm a self-taught designer with development experience. I graduated from a codin
 
 My current interests include:
 
-- Crypto art & NFT's ⚡️
 - Design Systems 🛠
+- Crypto art & NFT's ⚡️
 - Playing Tennis 🎾
 - Going to the Beach 🏖
 
