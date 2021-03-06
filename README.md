@@ -1,6 +1,6 @@
 ### Hey! I'm Jon 🦦
 
-I'm a self-taught designer with development experience. I graduated from a coding bootcamp for full-stack web development in 2020—during my time there, I built front-end web applications as well as back-end API's. I'm currently focused on UI design and optimizing the collaborative experience between designers and developers.
+I'm a self-taught designer with development experience. I graduated from a coding bootcamp for full-stack web development in 2020; during my time there, I built front-end web applications as well as back-end API's. I'm currently focused on UI design, with interest in optimizing the collaborative experience between designers and developers.
 
 My current interests include:
 
@@ -11,7 +11,7 @@ My current interests include:
 
 Reach me on twitter [@jawnhsu](https://twitter.com/jawnhsu)
 
-Check out my [work](https://jonhsu.design)
+Check out my [work](https://jush.xyz)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
