@@ -1,6 +1,6 @@
 ### Hey! I'm Jon 🦦
 
-I'm a self-taught designer with development experience. I graduated from a coding bootcamp for full-stack web development in 2020; during my time there, I built front-end web applications as well as back-end API's. I'm currently focused on UI design, with interest in optimizing the collaborative experience between designers and developers.
+I'm a self-taught designer with development experience. I graduated from a coding bootcamp for full-stack web development in 2020; during my time there, I built front-end web applications as well as back-end API's. I'm currently focused on UI engineering, with a focus on optimizing the collaborative experience between designers and developers.
 
 My current interests include:
 
