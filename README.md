@@ -11,7 +11,7 @@ My current interests include:
 
 Reach me on twitter [@jawnhsu](https://twitter.com/jawnhsu)
 
-Read more about what I've done [here](https://jush.xyz/work)
+// Read more about what I've done [here](https://jush.xyz/work)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
