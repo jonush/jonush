@@ -9,8 +9,6 @@ My current interests include:
 - Playing Tennis 🎾
 - Going to the Beach 🏖
 
-Reach me on twitter [@jawnhsu](https://twitter.com/jawnhsu)
-
 // Read more about what I've done [here](https://jush.xyz/work)
 
 <!--
