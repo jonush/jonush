@@ -9,7 +9,7 @@ My current interests include:
 - Playing Tennis 🎾
 - Going to the Beach 🏖
 
-// Read more about what I've done [here](https://jush.xyz/work)
+Read more about what I've done [here](https://jush.xyz/work) (site in progress!!!)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
