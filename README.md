@@ -5,7 +5,6 @@ I'm a self-taught designer with full-stack development experience. I graduated f
 My current interests include:
 
 - Design Systems 🛠
-- Crypto Art & NFT's ⚡️
 - Playing Tennis 🎾
 - Going to the Beach 🏖
 
