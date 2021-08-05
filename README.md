@@ -7,6 +7,7 @@ My current interests include:
 - Design Systems 🛠
 - Playing Tennis 🎾
 - Going to the Beach 🏖
+- Interior Design + Architecture 🏠
 
 Read more about what I've done [here](https://jush.xyz/work) (site in progress!!!)
 
