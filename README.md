@@ -9,7 +9,7 @@ My current interests include:
 - Going to the Beach 🏖
 - Interior Design + Architecture 🏠
 
-Read more about what I've done [here](https://jush.xyz/work) (site in progress!!!)
+Read more about my work [here](https://jush.xyz/work) (site in progress!!!)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
