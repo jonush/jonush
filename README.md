@@ -5,8 +5,8 @@ I'm a self-taught designer with full-stack development experience. I graduated f
 My current interests include:
 
 - Design Systems 🛠
-- Playing Tennis 🎾
-- Going to the Beach 🏖
+- Tennis 🎾
+- The Beach 🏖
 - Interior Design + Architecture 🏠
 
 Read more about my work [here](https://jush.xyz/work) (site in progress)
