@@ -1,6 +1,6 @@
 ### Hey! I'm Jon 🦦
 
-Read more about my work [here](https://jush.xyz/work) (site in progress)
+Read more about my work [here](https://jhsu.xyz/)
 
 <!--
 **jonush/jonush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
